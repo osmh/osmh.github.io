@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://osmh.github.io</id>
+    <id>https://osmh.net</id>
     <title>OSMHnet</title>
-    <updated>2019-08-13T10:22:42.163Z</updated>
+    <updated>2019-08-13T10:23:37.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://osmh.github.io"/>
-    <link rel="self" href="https://osmh.github.io/atom.xml"/>
+    <link rel="alternate" href="https://osmh.net"/>
+    <link rel="self" href="https://osmh.net/atom.xml"/>
     <subtitle>Overlapping sounds map my heart…</subtitle>
-    <logo>https://osmh.github.io/images/avatar.png</logo>
-    <icon>https://osmh.github.io/favicon.ico</icon>
+    <logo>https://osmh.net/images/avatar.png</logo>
+    <icon>https://osmh.net/favicon.ico</icon>
     <rights>All rights reserved 2019, OSMHnet</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://osmh.github.io/post/hello-gridea</id>
-        <link href="https://osmh.github.io/post/hello-gridea">
+        <id>https://osmh.net/post/hello-gridea</id>
+        <link href="https://osmh.net/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
