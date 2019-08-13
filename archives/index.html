@@ -17,11 +17,19 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
+        if (thehour<18)
+
             display = "https://osmh.github.io/media/css/night.css";
 
+       else if (thehour>6)
+
             display = "https://osmh.github.io/media/css/night.css";   
-      
+
+        else if (thehour>18)
+           
             display = "https://osmh.github.io/media/css/day.css";
+
+        else if (thehour<6)
 
             display = "https://osmh.github.io/media/css/day.css";
       
@@ -102,7 +110,9 @@ window.onload=getCSS();
 
 <div class="jingge">
 
-
+			
+<a  href="https://osmh.github.io/atom.xml" target="_blank" ><i class="iconfont icon-rss"></i></a>
+ 
     
 
     
@@ -122,7 +132,9 @@ window.onload=getCSS();
     
 
     
-
+			
+<a  href="https://weibo.com/osmh" target="_blank" ><i class="iconfont icon-weibo"></i></a>
+ 
     
 
     
