@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmh.github.io</id>
     <title>OSMHnet</title>
-    <updated>2019-08-15T06:39:54.397Z</updated>
+    <updated>2019-08-15T11:05:53.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osmh.github.io"/>
     <link rel="self" href="https://osmh.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://osmh.github.io/images/avatar.png</logo>
     <icon>https://osmh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, OSMHnet</rights>
+    <entry>
+        <title type="html"><![CDATA[Hi，there~]]></title>
+        <id>https://osmh.github.io/post/hi</id>
+        <link href="https://osmh.github.io/post/hi">
+        </link>
+        <updated>2019-08-15T10:36:22.000Z</updated>
+        <content type="html"><![CDATA[<p>  This website is coming after the Chinese one-OSMH.cn.As for me,I always wanna do this.I'm flattered when you read this website.Now,as I know,most of people receiving infomation using the apps,such as wechat,tik tok and so on.Blogs have seems like been forgotten.Even people less chose to read,and the Interenet speed faster and the store cost less,the pic and the video own their market.Words need to take a little time to understand what they said.So it lucky to meet amond the flow of the infomation.<br>
+  As the website OSMH.cn(the Chinese one),the website(OSMHnet) is pursuit simple and pure.I consider it's a free space which protects different voice.We put the focus on the psychology,but we also like to talk about the economy,the management,the new technology,the Internet and so on.<br>
+  It need confidence for me to build this website.To be frank,my English is not good.I just like most of Chinese.But I am lucky to have you guys  to talk to,and inclusive the difference between us.Thank you.</p>
+]]></content>
+    </entry>
 </feed>
